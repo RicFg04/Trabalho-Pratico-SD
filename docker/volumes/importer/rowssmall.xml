@@ -1,0 +1,1815 @@
+<response>
+    <row>
+        <row _id="row-mnid.ac5t.8e6c" _uuid="00000000-0000-0000-2A4D-FC17C663CD70" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-mnid.ac5t.8e6c">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>REPUBLIC NATIONAL DISTRIBUTING CO</supplier>
+            <item_code>100009</item_code>
+            <item_description>BOOTLEG RED - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-wgxs-vi8e-i2eq" _uuid="00000000-0000-0000-B3DA-6C4E63133CC6" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-wgxs-vi8e-i2eq">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PWSWN INC</supplier>
+            <item_code>100024</item_code>
+            <item_description>MOMENT DE PLAISIR - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>4</whs_sales>
+        </row>
+        <row _id="row-ij4x-v5qe_k85b" _uuid="00000000-0000-0000-789E-903C674CCB5E" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ij4x-v5qe_k85b">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>RELIABLE CHURCHILL LLLP</supplier>
+            <item_code>1001</item_code>
+            <item_description>S SMITH ORGANIC PEAR CIDER - 18.7OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-89pz.2bj3-i2vs" _uuid="00000000-0000-0000-51A4-C40AE739AE6F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-89pz.2bj3-i2vs">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LANTERNA DISTRIBUTORS INC</supplier>
+            <item_code>100145</item_code>
+            <item_description>SCHLINK HAUS KABINETT - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-v4n8~6buj-pht4" _uuid="00000000-0000-0000-B1A4-A14175679A12" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-v4n8~6buj-pht4">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DIONYSOS IMPORTS INC</supplier>
+            <item_code>100293</item_code>
+            <item_description>SANTORINI GAVALA WHITE - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.82</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-hpn2-jzin-ahan" _uuid="00000000-0000-0000-8DD0-31FF5415DF01" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-hpn2-jzin-ahan">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>KYSELA PERE ET FILS LTD</supplier>
+            <item_code>100641</item_code>
+            <item_description>CORTENOVA VENETO P/GRIG - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>2.76</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-z8p5-w2fk~jqn2" _uuid="00000000-0000-0000-91E6-8026DAB19EB9" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-z8p5-w2fk~jqn2">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>SANTA MARGHERITA USA INC</supplier>
+            <item_code>100749</item_code>
+            <item_description>SANTA MARGHERITA P/GRIG ALTO - 375ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.08</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-au58.qbx9_jpiw" _uuid="00000000-0000-0000-138A-91D13E882082" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-au58.qbx9_jpiw">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BROWN-FORMAN BEVERAGES WORLDWIDE</supplier>
+            <item_code>1008</item_code>
+            <item_description>JACK DANIELS COUNTRY COCKTAIL SOUTHERN PEACH - 10.OZ-NR</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-pr7c~mmkv~2s5w" _uuid="00000000-0000-0000-42BF-3E95F1E2044A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-pr7c~mmkv~2s5w">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JIM BEAM BRANDS CO</supplier>
+            <item_code>10103</item_code>
+            <item_description>KNOB CREEK BOURBON 9YR - 100P - 375ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>6.41</rtl_sales>
+            <rtl_transfers>4</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-9ed7~3a7b-9dja" _uuid="00000000-0000-0000-E102-D54DDD64AED5" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9ed7~3a7b-9dja">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>INTERNATIONAL CELLARS LLC</supplier>
+            <item_code>101117</item_code>
+            <item_description>KSARA CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.33</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-4zz2.h93t_qvt5" _uuid="00000000-0000-0000-953D-01A6983B22C8" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-4zz2.h93t_qvt5">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>HEAVEN HILL DISTILLERIES INC</supplier>
+            <item_code>10120</item_code>
+            <item_description>J W DANT BOURBON 100P - 1.75L</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>1.7</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-npv9.vpi2-xky8" _uuid="00000000-0000-0000-96E0-3B65EC9C1B55" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-npv9.vpi2-xky8">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BACCHUS IMPORTERS LTD</supplier>
+            <item_code>10123</item_code>
+            <item_description>NOTEWORTHY SMALL BATCH BOURBON - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>1.02</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-52uc~cqcm-gzjk" _uuid="00000000-0000-0000-8DBA-8BAA9B98A42B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-52uc~cqcm-gzjk">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BACCHUS IMPORTERS LTD</supplier>
+            <item_code>10124</item_code>
+            <item_description>NOTEWORTHY SMALL BATCH RYE 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.68</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-zi7r.jxep~3g4j" _uuid="00000000-0000-0000-389E-98FFF74C9225" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-zi7r.jxep~3g4j">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BACCHUS IMPORTERS LTD</supplier>
+            <item_code>10125</item_code>
+            <item_description>NOTEWORTHY SMALL BATCH HONEY BBN 750</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.34</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-b2pk~u4ax.z3w4" _uuid="00000000-0000-0000-349C-22A3F8B8CFC6" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-b2pk~u4ax.z3w4">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>MONSIEUR TOUTON SELECTION</supplier>
+            <item_code>101346</item_code>
+            <item_description>ALSACE WILLIAM GEW - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-s9ev_jg2h~7e3r" _uuid="00000000-0000-0000-23BA-C3C5BC205F3F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-s9ev_jg2h~7e3r">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>101486</item_code>
+            <item_description>POLIZIANO ROSSO MONTEPUL - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-bkmr-xdwv_e98t" _uuid="00000000-0000-0000-F0EC-3F93A3CD9BAA" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-bkmr-xdwv_e98t">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>101532</item_code>
+            <item_description>HATSUMAGO SAKE JUN MAI SHU - 720ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.34</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-mvk7~9tdc-prz3" _uuid="00000000-0000-0000-C7EE-DECF868C9E0A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-mvk7~9tdc-prz3">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ROYAL WINE CORP</supplier>
+            <item_code>101664</item_code>
+            <item_description>RAMON CORDOVA RIOJA - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.16</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-n3b2~tg8b-6knn" _uuid="00000000-0000-0000-2C99-251F8D0B77FC" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-n3b2~tg8b-6knn">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>REPUBLIC NATIONAL DISTRIBUTING CO</supplier>
+            <item_code>101702</item_code>
+            <item_description>MANISCHEWITZ CREAM RED CONCORD - 1.5L</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-f7em_28dh~aycv" _uuid="00000000-0000-0000-25B6-E5244603445A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-f7em_28dh~aycv">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ROYAL WINE CORP</supplier>
+            <item_code>101753</item_code>
+            <item_description>BARKAN CLASSIC PET SYR - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>3</whs_sales>
+        </row>
+        <row _id="row-nwxc-ttzf~hw84" _uuid="00000000-0000-0000-CDB2-3DFDD40A1CDF" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-nwxc-ttzf~hw84">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ROYAL WINE CORP</supplier>
+            <item_code>101915</item_code>
+            <item_description>WEINSTOCK CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-ztai_x4ut~66qp" _uuid="00000000-0000-0000-8079-EE9F995B1A19" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ztai_x4ut~66qp">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ROYAL WINE CORP</supplier>
+            <item_code>101923</item_code>
+            <item_description>WEINSTOCK CHARD - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-t79v.vq8v_8hwy" _uuid="00000000-0000-0000-08C1-8106499FF3B0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-t79v.vq8v_8hwy">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JIM BEAM BRANDS CO</supplier>
+            <item_code>10197</item_code>
+            <item_description>KNOB CREEK BOURBON 9YR - 100P - 1.75L</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>12.72</rtl_sales>
+            <rtl_transfers>11.84</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-ctmd~9swt.jva3" _uuid="00000000-0000-0000-B209-C434F6EF8CD3" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ctmd~9swt.jva3">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>STE MICHELLE WINE ESTATES</supplier>
+            <item_code>101974</item_code>
+            <item_description>CH ST MICH P/GRIS - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>11.17</rtl_sales>
+            <rtl_transfers>11</rtl_transfers>
+            <whs_sales>9</whs_sales>
+        </row>
+        <row _id="row-rnag.f5n3~np4h" _uuid="00000000-0000-0000-0AB1-9C92D26B038A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-rnag.f5n3~np4h">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>Default</supplier>
+            <item_code>102</item_code>
+            <item_description>TWO BOTTLE WINE TOTE</item_description>
+            <item_type>STR_SUPPLIES</item_type>
+            <rtl_sales>0.1</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-6dir.wkaf_7ynj" _uuid="00000000-0000-0000-359C-21B227990354" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-6dir.wkaf_7ynj">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>SAZERAC CO</supplier>
+            <item_code>102032</item_code>
+            <item_description>FUKI SAKE - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>1.25</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-u72s~b935.4zr4" _uuid="00000000-0000-0000-C0D2-E72EFE7A4C60" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-u72s~b935.4zr4">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>MONSIEUR TOUTON SELECTION</supplier>
+            <item_code>102083</item_code>
+            <item_description>CH DE LA CHESNAIE MUSCADET - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.32</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-9zg3_2w39~a88j" _uuid="00000000-0000-0000-82BB-74347AAAC773" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9zg3_2w39~a88j">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>MONSIEUR TOUTON SELECTION</supplier>
+            <item_code>102148</item_code>
+            <item_description>MONSIEUR TOUTON S/BLC - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-n6yb~azv3.wmna" _uuid="00000000-0000-0000-766F-EFFA689E27AC" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-n6yb~azv3.wmna">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JIM BEAM BRANDS CO</supplier>
+            <item_code>10243</item_code>
+            <item_description>OLD GRAND DAD BOURBON 100P - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>1.21</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-h28a.8xpa~qqvv" _uuid="00000000-0000-0000-F3DE-BB591F2F8235" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-h28a.8xpa~qqvv">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>SALVETO IMPORTS LLC</supplier>
+            <item_code>10245</item_code>
+            <item_description>CRICOVA ORIGINAL WH - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>1.91</rtl_sales>
+            <rtl_transfers>4</rtl_transfers>
+            <whs_sales>147</whs_sales>
+        </row>
+        <row _id="row-user-5cty.edgc" _uuid="00000000-0000-0000-C1F4-C15B9DA05A7D" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-user-5cty.edgc">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>10246</item_code>
+            <item_description>HILLROCK DOUBLE CASK RYE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.51</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-tqnz~5672-b9ve" _uuid="00000000-0000-0000-4003-E2440EDC9F5F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-tqnz~5672-b9ve">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>HUB WINE CORPORATION</supplier>
+            <item_code>10264</item_code>
+            <item_description>90+ CELLARS LOT 113 BIG RED BLEND - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-zjrw_56hb.neht" _uuid="00000000-0000-0000-F380-83549C26BEE3" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-zjrw_56hb.neht">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>RELIABLE CHURCHILL LLLP</supplier>
+            <item_code>10269</item_code>
+            <item_description>FEW BOURBON - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.85</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-c6yp.d5uy~b9c4" _uuid="00000000-0000-0000-CF99-145EE5811993" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-c6yp.d5uy~b9c4">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ALLAGASH BREWING COMPANY</supplier>
+            <item_code>10271</item_code>
+            <item_description>ALLAGASH SAISON 6/4 NR 12.0Z</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>9</whs_sales>
+        </row>
+        <row _id="row-icd4_3858-5qqw" _uuid="00000000-0000-0000-61BF-1DA575806B0B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-icd4_3858-5qqw">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CAMPARI AMERICA LLC</supplier>
+            <item_code>10272</item_code>
+            <item_description>WILD TURKEY AMERICAN HONEY STING - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.08</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-277n~nks5.bxv9" _uuid="00000000-0000-0000-F801-59A87BCC95EE" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-277n~nks5.bxv9">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PERNOD RICARD USA LLC</supplier>
+            <item_code>10276</item_code>
+            <item_description>ABERLOUR 18 YR - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.51</rtl_sales>
+            <rtl_transfers>3</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-gfa3.dmw2-gib7" _uuid="00000000-0000-0000-21CF-C1992468CDB5" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-gfa3.dmw2-gib7">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CAMPARI AMERICA LLC</supplier>
+            <item_code>10278</item_code>
+            <item_description>WILD TURKEY 101 - 200ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>1.16</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-6fq8_huew-sba5" _uuid="00000000-0000-0000-C7C7-A1581DA87132" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-6fq8_huew-sba5">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PERNOD RICARD USA LLC</supplier>
+            <item_code>10279</item_code>
+            <item_description>THE GLENLIVET NADURRA FIRST FILL - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.34</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-pcus.i9s5.duc4" _uuid="00000000-0000-0000-F487-691A840C17CD" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-pcus.i9s5.duc4">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>103055</item_code>
+            <item_description>ALLAN SCOTT VYDS S/BLC - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-qxb9~kunb~ukat" _uuid="00000000-0000-0000-FE43-E10E8DB1FE28" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-qxb9~kunb~ukat">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PRESTIGE BEVERAGE GROUP OF MD LLC</supplier>
+            <item_code>10324</item_code>
+            <item_description>DELOACH RR CHARD - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-fndr~nkc5_it5i" _uuid="00000000-0000-0000-1DEE-395714A1B189" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-fndr~nkc5_it5i">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BACARDI USA INC</supplier>
+            <item_code>10332</item_code>
+            <item_description>GREY GOOSE VODKA - 375ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>33.57</rtl_sales>
+            <rtl_transfers>36</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-kre5.xrc4_zfpb" _uuid="00000000-0000-0000-2602-25B65B75983D" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-kre5.xrc4_zfpb">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>YOUNG WON TRADING INC</supplier>
+            <item_code>10345</item_code>
+            <item_description>KLOUD - 500/12 NR</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>2</rtl_sales>
+            <rtl_transfers>2</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-253r-xyf3.caua" _uuid="00000000-0000-0000-63BD-B64B67D39A78" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-253r-xyf3.caua">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>YOUNG WON TRADING INC</supplier>
+            <item_code>10346</item_code>
+            <item_description>KLOUD - 330/24 NR</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>2.75</rtl_sales>
+            <rtl_transfers>2</rtl_transfers>
+            <whs_sales>7</whs_sales>
+        </row>
+        <row _id="row-asmz.m33e_vxq4" _uuid="00000000-0000-0000-6C1D-4BE2D6C576C4" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-asmz.m33e_vxq4">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>TROEGS BREWING COMPANY</supplier>
+            <item_code>10356</item_code>
+            <item_description>TROEGS NUGGET NECTAR 4/6 CANS</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>5</whs_sales>
+        </row>
+        <row _id="row-gnte.2p5s~f8bh" _uuid="00000000-0000-0000-0683-857263C726FD" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-gnte.2p5s~f8bh">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>103608</item_code>
+            <item_description>VAJRA LANGHE NEBBIOLO DOC - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.48</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-mz28~376q-px4c" _uuid="00000000-0000-0000-9D7C-9B83D188C9F4" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-mz28~376q-px4c">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CASTLE BRANDS USA CORP</supplier>
+            <item_code>10375</item_code>
+            <item_description>PALLINI LIMONCELLO 6/CS - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>11.99</rtl_sales>
+            <rtl_transfers>15</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-cyms~rpqx-j4xy" _uuid="00000000-0000-0000-595B-332D79C4F60F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-cyms~rpqx-j4xy">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10387</item_code>
+            <item_description>FIRESTONE NITRO MERLIN - 50L</item_description>
+            <item_type>KEGS</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-jf3x-m6ct_66hh" _uuid="00000000-0000-0000-024F-B4D1118A147B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-jf3x-m6ct_66hh">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>WASHBURN WINE CO</supplier>
+            <item_code>10394</item_code>
+            <item_description>DE GARRE BELGIUM ALE - 750ML</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-p63e-wkxt~emcw" _uuid="00000000-0000-0000-D789-C9DCF5885814" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-p63e-wkxt~emcw">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>Default</supplier>
+            <item_code>104</item_code>
+            <item_description>FOUR BOTTLE WINE TOTE</item_description>
+            <item_type>STR_SUPPLIES</item_type>
+            <rtl_sales>0.4</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-mg3j.cwn2-ry85" _uuid="00000000-0000-0000-03DD-2173BED38C9F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-mg3j.cwn2-ry85">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CELICAR LLC DBA TWIN VALLEY DISTILLERS</supplier>
+            <item_code>10401</item_code>
+            <item_description>DIRTY APPLES CINNAMON WHISKEY - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.17</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-ej87~seuy~qdbg" _uuid="00000000-0000-0000-CD31-529F1BE71912" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ej87~seuy~qdbg">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DIONYSOS IMPORTS INC</supplier>
+            <item_code>104060</item_code>
+            <item_description>LES CHAILLOUX SANCERRE CHERRIE - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>2.55</rtl_sales>
+            <rtl_transfers>5</rtl_transfers>
+            <whs_sales>3</whs_sales>
+        </row>
+        <row _id="row-pnhs_daa4~dmvu" _uuid="00000000-0000-0000-C212-25780F59B261" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-pnhs_daa4~dmvu">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DOPS INC</supplier>
+            <item_code>10407</item_code>
+            <item_description>21ST AMENDMENT EL SULLY CERVEZA - 4/6 12.0Z</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-fqdi~yjg6_ut2d" _uuid="00000000-0000-0000-9D20-621A4B689C87" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-fqdi~yjg6_ut2d">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JACKSON FAMILY ENTERPRISES INC</supplier>
+            <item_code>10413</item_code>
+            <item_description>MURPHY GOODE CHARD - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>9.41</rtl_sales>
+            <rtl_transfers>8</rtl_transfers>
+            <whs_sales>13</whs_sales>
+        </row>
+        <row _id="row-tv3r.69ex~6y6u" _uuid="00000000-0000-0000-1C65-80B7BE0A57A0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-tv3r.69ex~6y6u">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>YOUNG WON TRADING INC</supplier>
+            <item_code>104280</item_code>
+            <item_description>SHO CHIKU BAI SAKE - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-kvmv~2r66-tsjy" _uuid="00000000-0000-0000-119A-A37930869EC8" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-kvmv~2r66-tsjy">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BUCK DISTRIBUTING COMPANY INC</supplier>
+            <item_code>10430</item_code>
+            <item_description>STONE IPA 4/6 NR - 12OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>33.79</rtl_sales>
+            <rtl_transfers>45</rtl_transfers>
+            <whs_sales>120.75</whs_sales>
+        </row>
+        <row _id="row-dqhr~dbak~drc6" _uuid="00000000-0000-0000-ADA3-9A7F3FAEC71E" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-dqhr~dbak~drc6">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PUNTO VINO LLC</supplier>
+            <item_code>104302</item_code>
+            <item_description>EREDI LODALI BAROLO 6/CS - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>1.19</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-qunx.gvfs_m2m3" _uuid="00000000-0000-0000-F25C-56E0F22E4C37" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-qunx.gvfs_m2m3">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>VICTORY BREWING COMPANY LLC</supplier>
+            <item_code>10431</item_code>
+            <item_description>VICTORY GOLDEN MONKEY 4/6 NR</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>16.75</rtl_sales>
+            <rtl_transfers>19</rtl_transfers>
+            <whs_sales>191</whs_sales>
+        </row>
+        <row _id="row-9dkr~522e~c43d" _uuid="00000000-0000-0000-D4F2-9DE0BEB2D887" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9dkr~522e~c43d">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DIONYSOS IMPORTS INC</supplier>
+            <item_code>10432</item_code>
+            <item_description>MYTHOS BEER 4/6NR - 11.2OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>1.5</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>35</whs_sales>
+        </row>
+        <row _id="row-f54w~cwah.c8i7" _uuid="00000000-0000-0000-37A0-15278945F4A2" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-f54w~cwah.c8i7">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10434</item_code>
+            <item_description>LAGUNITAS IPA 4/6 NR - 12OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>63.5</rtl_sales>
+            <rtl_transfers>63</rtl_transfers>
+            <whs_sales>210</whs_sales>
+        </row>
+        <row _id="row-wabv-c8cg.234a" _uuid="00000000-0000-0000-872C-7C2629BFB795" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-wabv-c8cg.234a">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10435</item_code>
+            <item_description>LAGUNITAS SUMPIN SUMPIN 4/6 NR - 12OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>15.41</rtl_sales>
+            <rtl_transfers>22</rtl_transfers>
+            <whs_sales>57</whs_sales>
+        </row>
+        <row _id="row-ezq9~byma~8q87" _uuid="00000000-0000-0000-FDF7-59301D1D240C" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ezq9~byma~8q87">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10436</item_code>
+            <item_description>OSKAR BLUES DALES PALE ALE 12.OZ 4/6 CAN</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>37</rtl_sales>
+            <rtl_transfers>46</rtl_transfers>
+            <whs_sales>113</whs_sales>
+        </row>
+        <row _id="row-nq3p-5h9r.sj34" _uuid="00000000-0000-0000-A899-726CDF458156" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-nq3p-5h9r.sj34">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10437</item_code>
+            <item_description>CRISPIN CIDER ORIGINAL 4/6 NR - 12OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>25</whs_sales>
+        </row>
+        <row _id="row-nf22-a3e4~ueyx" _uuid="00000000-0000-0000-6734-CD338677E838" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-nf22-a3e4~ueyx">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10438</item_code>
+            <item_description>BRECKENRIDGE VANILLA PORTER 4/6 NR - 12OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>7</rtl_sales>
+            <rtl_transfers>5</rtl_transfers>
+            <whs_sales>54</whs_sales>
+        </row>
+        <row _id="row-bpz2_fscx.wvns" _uuid="00000000-0000-0000-C78D-BC91D87FC547" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-bpz2_fscx.wvns">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE WINE GROUP</supplier>
+            <item_code>10439</item_code>
+            <item_description>CONCANNON FOUNDERS CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.74</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>3</whs_sales>
+        </row>
+        <row _id="row-a28e-pdrd.bm8z" _uuid="00000000-0000-0000-6E1E-FCDD5F5FE4EE" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-a28e-pdrd.bm8z">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE WINE GROUP</supplier>
+            <item_code>10440</item_code>
+            <item_description>CONCANNON FOUNDERS CHARD - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.41</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>3</whs_sales>
+        </row>
+        <row _id="row-dm4a_ez68_fpht" _uuid="00000000-0000-0000-ACF2-F2A48C6D6F5D" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-dm4a_ez68_fpht">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE WINE GROUP</supplier>
+            <item_code>10441</item_code>
+            <item_description>LOVE P/NOIR - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>8.49</rtl_sales>
+            <rtl_transfers>17.67</rtl_transfers>
+            <whs_sales>25</whs_sales>
+        </row>
+        <row _id="row-5csq_8usn~mas8" _uuid="00000000-0000-0000-FE57-4F0F3A9C8E24" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-5csq_8usn~mas8">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PERNOD RICARD USA LLC</supplier>
+            <item_code>10442</item_code>
+            <item_description>OLMECA ALTOS TEQ - PLATA - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>20.95</rtl_sales>
+            <rtl_transfers>34</rtl_transfers>
+            <whs_sales>4</whs_sales>
+        </row>
+        <row _id="row-8z84~y3zn_ghza" _uuid="00000000-0000-0000-CB69-908003D25A7D" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-8z84~y3zn_ghza">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PERNOD RICARD USA LLC</supplier>
+            <item_code>10443</item_code>
+            <item_description>OLMECA ALTOS TEQ - REPOSADO - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>20.7</rtl_sales>
+            <rtl_transfers>38</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-i62e-c6ey_cxzf" _uuid="00000000-0000-0000-51A0-F792AA1B1E9E" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-i62e-c6ey_cxzf">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PERNOD RICARD USA LLC</supplier>
+            <item_code>10444</item_code>
+            <item_description>JAMESON CASKMATES STOUT - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>36.31</rtl_sales>
+            <rtl_transfers>29.66</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-6zqc~qiix-yuk4" _uuid="00000000-0000-0000-07AA-B581E548781B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-6zqc~qiix-yuk4">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>10445</item_code>
+            <item_description>BRECKENRIDGE BOURBON - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>12.07</rtl_sales>
+            <rtl_transfers>11</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-vh7i.4qkw~p7x6" _uuid="00000000-0000-0000-C788-DCE3B54F50F6" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-vh7i.4qkw~p7x6">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ELITE WINES IMPORTS</supplier>
+            <item_code>104450</item_code>
+            <item_description>SEIFRIED S/BLC - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-espc~uq2d~gmem" _uuid="00000000-0000-0000-7C92-A3B4C1A410E8" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-espc~uq2d~gmem">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DOPS INC</supplier>
+            <item_code>104604</item_code>
+            <item_description>DRY CREEK HERITAGE CLONE ZIN - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-8xnc.k2fc~u6vn" _uuid="00000000-0000-0000-12ED-2115A8F98587" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-8xnc.k2fc~u6vn">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LUNEAU USA INC</supplier>
+            <item_code>104639</item_code>
+            <item_description>JULES BERTIER SPARK - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-nu2g~h4qz_84d2" _uuid="00000000-0000-0000-8D18-99D0286E32A0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-nu2g~h4qz_84d2">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PERNOD RICARD USA LLC</supplier>
+            <item_code>10472</item_code>
+            <item_description>MALIBU RUM - PASSION FRUIT - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>3.9</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-ga2r_3ff7-4dgm" _uuid="00000000-0000-0000-0CFF-3F12AB969859" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ga2r_3ff7-4dgm">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10475</item_code>
+            <item_description>HITACHINO ANABAI - 11.2OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-injx_hqaq_6b82" _uuid="00000000-0000-0000-A040-9B5D0EAEB84B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-injx_hqaq_6b82">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BARON FRANCOIS LTD</supplier>
+            <item_code>10480</item_code>
+            <item_description>CHATEAU LAUBADE ARMAGNAC VSOP - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>2.37</rtl_sales>
+            <rtl_transfers>4</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-66eg~7zuz.tsqj" _uuid="00000000-0000-0000-B702-D66E597D915B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-66eg~7zuz.tsqj">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BARON FRANCOIS LTD</supplier>
+            <item_code>10499</item_code>
+            <item_description>CHATEAU LAUBADE ARMAGNAC XO - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>1.53</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-ysmv_jtf3-sre6" _uuid="00000000-0000-0000-5269-289149DF47A5" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ysmv_jtf3-sre6">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>Default</supplier>
+            <item_code>105</item_code>
+            <item_description>WINE GIFT TOTE SINGLE BOTTLE</item_description>
+            <item_type>STR_SUPPLIES</item_type>
+            <rtl_sales>10.6</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-jwci_v5qd-49gb" _uuid="00000000-0000-0000-D637-D579FABDFADE" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-jwci_v5qd-49gb">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ROYAL WINE CORP</supplier>
+            <item_code>105031</item_code>
+            <item_description>CH DE LA GRAVE RED - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>10</whs_sales>
+        </row>
+        <row _id="row-34qa.dwib_awiq" _uuid="00000000-0000-0000-936B-9E369A9E4611" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-34qa.dwib_awiq">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PROXIMO SPIRITS INC</supplier>
+            <item_code>10529</item_code>
+            <item_description>JOSE CUERVO GOLDEN MARGARITA - 1.75L</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>46.66</rtl_sales>
+            <rtl_transfers>47</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-xxde~vwq8_ut7e" _uuid="00000000-0000-0000-9871-9AA35B8A9F61" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-xxde~vwq8_ut7e">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>SOUTHERN GLAZERS WINE AND SPIRITS</supplier>
+            <item_code>10545</item_code>
+            <item_description>FERRARI CARANO MERLOT SONOMA - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-n2x2.vuck-ik4a" _uuid="00000000-0000-0000-F34F-A054DC8F3AFB" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-n2x2.vuck-ik4a">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PRESTIGE BEVERAGE GROUP OF MD LLC</supplier>
+            <item_code>105490</item_code>
+            <item_description>HAKUTSURU SAKE - 720ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>3.07</rtl_sales>
+            <rtl_transfers>4</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-f6yw_9jbh~thjh" _uuid="00000000-0000-0000-D027-5BFDBDA68685" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-f6yw_9jbh~thjh">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>TROEGS BREWING COMPANY</supplier>
+            <item_code>1058</item_code>
+            <item_description>TROEGS HOPBACK ALE 4/6 NR</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>6.79</rtl_sales>
+            <rtl_transfers>9</rtl_transfers>
+            <whs_sales>11</whs_sales>
+        </row>
+        <row _id="row-e9m4-ezzd_gmbe" _uuid="00000000-0000-0000-48F2-83126E2C9628" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-e9m4-ezzd_gmbe">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10586</item_code>
+            <item_description>ALHAMBRA RESERVA 20L-1/6K</item_description>
+            <item_type>KEGS</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-8z9m.3pte.w3vi" _uuid="00000000-0000-0000-245C-376A4CFE5F2F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-8z9m.3pte.w3vi">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10593</item_code>
+            <item_description>ALHAMBRA RESERVA - 4/6NR 12.0Z</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-9qb5_dgjk.seaw" _uuid="00000000-0000-0000-442F-1CD1E036C333" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9qb5_dgjk.seaw">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>Default</supplier>
+            <item_code>106</item_code>
+            <item_description>SIX BOTTLE WINE TOTE (NO LOGO)</item_description>
+            <item_type>STR_SUPPLIES</item_type>
+            <rtl_sales>2.1</rtl_sales>
+            <rtl_transfers>6</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-y2ez~ctfv.bjur" _uuid="00000000-0000-0000-8D91-4B3C83C3BCA2" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-y2ez~ctfv.bjur">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DOPS INC</supplier>
+            <item_code>10603</item_code>
+            <item_description>NORTH COAST OLD RASPUTIN - 22.0Z</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0.24</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-v36a~gkdq.c965" _uuid="00000000-0000-0000-5821-4761AABE613B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-v36a~gkdq.c965">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10609</item_code>
+            <item_description>FIRESTONE LUPONIC DISTORTION - 4/6 CAN 12.0Z</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-vziu~gdep-vgki" _uuid="00000000-0000-0000-D1AA-890EA6F89904" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-vziu~gdep-vgki">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10610</item_code>
+            <item_description>LAGUNITAS LIL SUMPIN - 2/12 NR 12.0Z</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>1.5</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>7</whs_sales>
+        </row>
+        <row _id="row-v4ka-eugk~v3et" _uuid="00000000-0000-0000-3843-D096852FE9F7" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-v4ka-eugk~v3et">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10632</item_code>
+            <item_description>FIRESTONE LUPONIC DISTORTION - 50L</item_description>
+            <item_type>KEGS</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-5wjb-a6s5-ycw3" _uuid="00000000-0000-0000-FB7F-A2716255F028" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-5wjb-a6s5-ycw3">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DIAGEO NORTH AMERICA INC</supplier>
+            <item_code>10634</item_code>
+            <item_description>SMIRNOFF VODKA - CHERRY - 1L</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>7.02</rtl_sales>
+            <rtl_transfers>8.75</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-iaxp_v6cs-gx8h" _uuid="00000000-0000-0000-22C7-1075F04F90AF" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-iaxp_v6cs-gx8h">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE WINE GROUP</supplier>
+            <item_code>10637</item_code>
+            <item_description>CUPCAKE PROSECCO - 187 3PK</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>4.53</rtl_sales>
+            <rtl_transfers>5</rtl_transfers>
+            <whs_sales>13</whs_sales>
+        </row>
+        <row _id="row-rkzt-p3xa.rx97" _uuid="00000000-0000-0000-EBCC-83F24A6A41F3" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-rkzt-p3xa.rx97">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE WINE GROUP</supplier>
+            <item_code>10638</item_code>
+            <item_description>FRANZIA PINK MOSCATO - 5L</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>2.5</rtl_sales>
+            <rtl_transfers>4</rtl_transfers>
+            <whs_sales>20</whs_sales>
+        </row>
+        <row _id="row-9egq~55px.g388" _uuid="00000000-0000-0000-9D91-83974DC7DF17" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9egq~55px.g388">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10646</item_code>
+            <item_description>OSKAR BLUES G'KNIGHT - 4/6 CAN 12.OZ</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0.25</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>7</whs_sales>
+        </row>
+        <row _id="row-jnbr_c7mn.xeic" _uuid="00000000-0000-0000-F97A-D6C8D32EC55A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-jnbr_c7mn.xeic">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>106518</item_code>
+            <item_description>MADFISH WEST AUST SHZ - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-eaa6~hybp_x3si" _uuid="00000000-0000-0000-11B5-95C8718CF58B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-eaa6~hybp_x3si">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JIM BEAM BRANDS CO</supplier>
+            <item_code>10666</item_code>
+            <item_description>SAUZA HORNITOS REPOSATO - 375ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.16</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-5sqx-856e_2jjh" _uuid="00000000-0000-0000-FDD6-8A433BFF33D4" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-5sqx-856e_2jjh">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JIM BEAM BRANDS CO</supplier>
+            <item_code>10667</item_code>
+            <item_description>EFFEN VODKA - BLACK CHERRY - 375ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.08</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-6mab-3rpv.h2aj" _uuid="00000000-0000-0000-A727-1716FBE6219B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-6mab-3rpv.h2aj">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JIM BEAM BRANDS CO</supplier>
+            <item_code>10668</item_code>
+            <item_description>MAKERS MARK BOURBON - 375ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>26.25</rtl_sales>
+            <rtl_transfers>21</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-h6tx-mpb2~wcdf" _uuid="00000000-0000-0000-C7D4-30572AE43201" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-h6tx-mpb2~wcdf">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>10669</item_code>
+            <item_description>TWO JAMES JOHNNY SMOKING GUN WHISKEY - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.17</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-pe8z~p2v3-674t" _uuid="00000000-0000-0000-516C-EDA1AA2959E0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-pe8z~p2v3-674t">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>OPICI FAMILY DISTRIBUTING OF MD</supplier>
+            <item_code>10675</item_code>
+            <item_description>BRINLEY GOLD SHIPWRECK SPICED RUM - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.17</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-pucc_2uxh.i2hw" _uuid="00000000-0000-0000-F6DE-9BC4E32CC916" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-pucc_2uxh.i2hw">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>OPICI FAMILY DISTRIBUTING OF MD</supplier>
+            <item_code>10676</item_code>
+            <item_description>BRINLEY GOLD SHIPWRECK COCONUT RUM - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.17</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-99cg_qmdg_qb8f" _uuid="00000000-0000-0000-2005-BC93C1AFC264" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-99cg_qmdg_qb8f">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>OPICI FAMILY DISTRIBUTING OF MD</supplier>
+            <item_code>10678</item_code>
+            <item_description>BRINLEY GOLD SHIPWRECK COCONUT RUM CREAM- 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>1</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-mydg~4mzk_gc3s" _uuid="00000000-0000-0000-37F0-940A7E5155D0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-mydg~4mzk_gc3s">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>MONSIEUR TOUTON SELECTION</supplier>
+            <item_code>106917</item_code>
+            <item_description>ALSACE WILLIAM CREMANT BRUT - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>4</whs_sales>
+        </row>
+        <row _id="row-fm52-sz5t-p9d7" _uuid="00000000-0000-0000-BEA9-007D856A7B66" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-fm52-sz5t-p9d7">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>REPUBLIC NATIONAL DISTRIBUTING CO</supplier>
+            <item_code>10693</item_code>
+            <item_description>TAYLOR LAKE COUNTRY RED - 3L</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>3</rtl_sales>
+            <rtl_transfers>5</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-e9bx~qa39~rgw2" _uuid="00000000-0000-0000-C7AB-3D4A5073081F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-e9bx~qa39~rgw2">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10696</item_code>
+            <item_description>FIRESTONE VARIETY - 2/12 12.OZ CAN</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>2</rtl_sales>
+            <rtl_transfers>2</rtl_transfers>
+            <whs_sales>13</whs_sales>
+        </row>
+        <row _id="row-pyzu_3kge~emfb" _uuid="00000000-0000-0000-01C6-30F1FCAB0C15" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-pyzu_3kge~emfb">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>MICHAEL R DOWNEY SELECTIONS INC</supplier>
+            <item_code>106968</item_code>
+            <item_description>ADRIANO ADAMI PROSECCO BRUT - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-xwi7~xc43_bpis" _uuid="00000000-0000-0000-F1F5-2D89DD3E31B6" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-xwi7~xc43_bpis">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <item_code>107</item_code>
+            <item_description>JIGGER MEASURE SHOT GLASS</item_description>
+            <item_type>STR_SUPPLIES</item_type>
+            <rtl_sales>14.69</rtl_sales>
+            <rtl_transfers>18</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-mxmb-gzzd-jrgk" _uuid="00000000-0000-0000-ED8E-989072E6B34E" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-mxmb-gzzd-jrgk">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>ATLAS BREW WORKS LLC</supplier>
+            <item_code>10711</item_code>
+            <item_description>ATLAS BREW WORKS PONZI - 4/6 12.OZ CAN</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>19.54</rtl_sales>
+            <rtl_transfers>22</rtl_transfers>
+            <whs_sales>50.75</whs_sales>
+        </row>
+        <row _id="row-dj9x~vdm9.kgvn" _uuid="00000000-0000-0000-8FAB-E60B6B294A70" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-dj9x~vdm9.kgvn">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PRESTIGE BEVERAGE GROUP OF MD LLC</supplier>
+            <item_code>107123</item_code>
+            <item_description>DELLA SCALA P/GRIG - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.75</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-bmvp~f436.ii43" _uuid="00000000-0000-0000-8039-0076454FBF6A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-bmvp~f436.ii43">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>YOUNG WON TRADING INC</supplier>
+            <item_code>107352</item_code>
+            <item_description>SHO CHIKU BAI NIGORI SAKE - 375ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-uvpg~wf3z~xeca" _uuid="00000000-0000-0000-47D8-7EFFA2E678AC" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-uvpg~wf3z~xeca">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE WINE GROUP</supplier>
+            <item_code>10737</item_code>
+            <item_description>CONCANNON FOUNDERS PETITE SYRAH - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.32</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-9aq2~qqzq_utnm" _uuid="00000000-0000-0000-01CB-DE31D634FECA" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9aq2~qqzq_utnm">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>FRONT PORCH MICRO WINERY LLC</supplier>
+            <item_code>10738</item_code>
+            <item_description>THE WINERY AT OLNEY CHARD - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.32</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-zci5~m7xi~n3m2" _uuid="00000000-0000-0000-FB80-9E07F9F69E2E" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-zci5~m7xi~n3m2">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>TREASURY WINE ESTATES AMERICAS COMPANY</supplier>
+            <item_code>10740</item_code>
+            <item_description>BERINGER FOUNDERS EST P/GRIG - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>3.1</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-qweb_yteh_4fa3" _uuid="00000000-0000-0000-281D-CC6D5357609A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-qweb_yteh_4fa3">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>TREASURY WINE ESTATES AMERICAS COMPANY</supplier>
+            <item_code>10758</item_code>
+            <item_description>CH ST JEAN CAL MER - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>2.81</rtl_sales>
+            <rtl_transfers>4</rtl_transfers>
+            <whs_sales>9</whs_sales>
+        </row>
+        <row _id="row-u2pa.qfps~u5nv" _uuid="00000000-0000-0000-1D75-C1BF6E00F6BC" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-u2pa.qfps~u5nv">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>TRADEWINDS SPECIALTY IMPORTS LLC</supplier>
+            <item_code>10768</item_code>
+            <item_description>ER BOQUERON - 330ML</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-zk4d-cc8j.q4tz" _uuid="00000000-0000-0000-16ED-243E16060D43" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-zk4d-cc8j.q4tz">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>YOUNG WON TRADING INC</supplier>
+            <item_code>107816</item_code>
+            <item_description>HAKUSHIKA GOLD SAKE - 720ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-fznn.f3hg-uanw" _uuid="00000000-0000-0000-9024-EB89CC7E289D" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-fznn.f3hg-uanw">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CONSTELLATION BRANDS</supplier>
+            <item_code>10787</item_code>
+            <item_description>HIGH WEST YIPPEE KI-YAY RYE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>3.23</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-nm8c~epfw~sze7" _uuid="00000000-0000-0000-48FB-93FE116A1E58" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-nm8c~epfw~sze7">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>TREASURY WINE ESTATES AMERICAS COMPANY</supplier>
+            <item_code>10804</item_code>
+            <item_description>CH ST JEAN CAL CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>4.32</rtl_sales>
+            <rtl_transfers>6</rtl_transfers>
+            <whs_sales>23</whs_sales>
+        </row>
+        <row _id="row-bebp_pfd6~i5ea" _uuid="00000000-0000-0000-877B-E1AB0F308F03" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-bebp_pfd6~i5ea">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>MONSIEUR TOUTON SELECTION</supplier>
+            <item_code>108200</item_code>
+            <item_description>SUSANA BALBO CRIOS TORRONTES - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.16</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-m674.tmp8.q9ns" _uuid="00000000-0000-0000-06F5-0283A708643C" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-m674.tmp8.q9ns">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10829</item_code>
+            <item_description>WOLFFERS DRY ROSE CIDER - 12.OZ 6/4NR</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>4</whs_sales>
+        </row>
+        <row _id="row-9teh-mhxa~zrmf" _uuid="00000000-0000-0000-5851-16D89A81F79F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9teh-mhxa~zrmf">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>SIERRA NEVADA BREWING CO</supplier>
+            <item_code>10836</item_code>
+            <item_description>SIERRA NEVADA KELLERWEIS - 1/6K</item_description>
+            <item_type>KEGS</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-64k4.5bm3.2bqd" _uuid="00000000-0000-0000-50F9-A7BE2B05413C" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-64k4.5bm3.2bqd">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BARON FRANCOIS LTD</supplier>
+            <item_code>108367</item_code>
+            <item_description>DOM CAVES DE PRIEURE SANCERRE - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.33</rtl_sales>
+            <rtl_transfers>3</rtl_transfers>
+            <whs_sales>0.91667</whs_sales>
+        </row>
+        <row _id="row-3ptm~7xmp_tym3" _uuid="00000000-0000-0000-F478-E632C323CADD" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-3ptm~7xmp_tym3">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>10844</item_code>
+            <item_description>HILLROCK MADIERA FINISHED RYE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.17</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-8ysp~22d5_fy4j" _uuid="00000000-0000-0000-2407-5EF84BA4DCE5" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-8ysp~22d5_fy4j">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>10847</item_code>
+            <item_description>MARKHAM CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>1.16</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-sz3p_56mn~xh4h" _uuid="00000000-0000-0000-31F5-0F8AA61C9A5A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-sz3p_56mn~xh4h">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CONSTELLATION BRANDS</supplier>
+            <item_code>10859</item_code>
+            <item_description>TOM GORE CHARD - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.66</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-avdi_cze4.6hvt" _uuid="00000000-0000-0000-BC41-526ECBB938B7" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-avdi_cze4.6hvt">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CONSTELLATION BRANDS</supplier>
+            <item_code>10860</item_code>
+            <item_description>TOM GORE CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>2.94</rtl_sales>
+            <rtl_transfers>3</rtl_transfers>
+            <whs_sales>5</whs_sales>
+        </row>
+        <row _id="row-86ee-hsbt_p3kf" _uuid="00000000-0000-0000-E479-A9C67C804369" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-86ee-hsbt_p3kf">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CONSTELLATION BRANDS</supplier>
+            <item_code>10861</item_code>
+            <item_description>RAVAGE CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>4.44</rtl_sales>
+            <rtl_transfers>4</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-kgr5_mzvp.n6hy" _uuid="00000000-0000-0000-3159-50353AF53EC0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-kgr5_mzvp.n6hy">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>CONSTELLATION BRANDS</supplier>
+            <item_code>10862</item_code>
+            <item_description>SERPENTS BITE WHISKEY - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>2.77</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-42d5_ztkm~6aba" _uuid="00000000-0000-0000-05C2-9D1BAB8B413A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-42d5_ztkm~6aba">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>THE COUNTRY VINTNER, LLC DBA WINEBOW</supplier>
+            <item_code>108634</item_code>
+            <item_description>INDABA WESTERN CAPE CH/BLC - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>1.82</rtl_sales>
+            <rtl_transfers>3</rtl_transfers>
+            <whs_sales>4</whs_sales>
+        </row>
+        <row _id="row-7m7q~t5jq~3964" _uuid="00000000-0000-0000-DF1B-FF0F2A1DA69A" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-7m7q~t5jq~3964">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DUGGANS DISTILLERS PROD</supplier>
+            <item_code>10864</item_code>
+            <item_description>FORBIDDEN SECRET WH CHOCOLATE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.17</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-dz3a.fjms~5944" _uuid="00000000-0000-0000-406E-DE91335341BD" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-dz3a.fjms~5944">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10866</item_code>
+            <item_description>GIN MARE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.34</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>2</whs_sales>
+        </row>
+        <row _id="row-5jzi~r8pv-sgn9" _uuid="00000000-0000-0000-E144-07BAB143CA93" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-5jzi~r8pv-sgn9">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10867</item_code>
+            <item_description>GUNPOWDER RYE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.34</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-ht4v~uqrq-e4qg" _uuid="00000000-0000-0000-F274-24A10A4AAD39" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-ht4v~uqrq-e4qg">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>SAZERAC CO</supplier>
+            <item_code>10869</item_code>
+            <item_description>99 SCHNAPPS - PINEAPPLE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.64</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-iz9g~6x97.3qip" _uuid="00000000-0000-0000-E6AA-AB60331FB25C" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-iz9g~6x97.3qip">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>VINTAGE WINE ESTATES INC</supplier>
+            <item_code>108790</item_code>
+            <item_description>CARTLIDGE &amp; BROWN CAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>3</whs_sales>
+        </row>
+        <row _id="row-zn2x_7esb.dn8y" _uuid="00000000-0000-0000-744F-878F6B17A5A4" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-zn2x_7esb.dn8y">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>REPUBLIC NATIONAL DISTRIBUTING CO</supplier>
+            <item_code>10898</item_code>
+            <item_description>PICCINI CHIANTI - 1.5L</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>12.98</rtl_sales>
+            <rtl_transfers>9</rtl_transfers>
+            <whs_sales>13.83333</whs_sales>
+        </row>
+        <row _id="row-7d4z~p547.ij94" _uuid="00000000-0000-0000-80B9-BC28B4890790" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-7d4z~p547.ij94">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>Default</supplier>
+            <item_code>109</item_code>
+            <item_description>WINE TOTE WOOD HANDLE 2 POCKET 4 BTL</item_description>
+            <item_type>STR_SUPPLIES</item_type>
+            <rtl_sales>2.8</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-9udk_8wd7.u9we" _uuid="00000000-0000-0000-4C30-41BB7FC2AABD" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-9udk_8wd7.u9we">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>REPUBLIC NATIONAL DISTRIBUTING CO</supplier>
+            <item_code>109053</item_code>
+            <item_description>GOLDWATER DOG POINT S/BLC - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-sf9h.cfh6.yb3r" _uuid="00000000-0000-0000-79D0-D8BBEC5853CB" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-sf9h.cfh6.yb3r">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>SAGAMORE WHISKEY LLC</supplier>
+            <item_code>10907</item_code>
+            <item_description>SAGAMORE RYE - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>22.16</rtl_sales>
+            <rtl_transfers>21</rtl_transfers>
+            <whs_sales>5</whs_sales>
+        </row>
+        <row _id="row-23uh.by44-s4rg" _uuid="00000000-0000-0000-E21B-1F23AE6F47AE" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-23uh.by44-s4rg">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>REPUBLIC NATIONAL DISTRIBUTING CO</supplier>
+            <item_code>10908</item_code>
+            <item_description>SLOOP BETTY VODKA - HONEY - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.68</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-vmr9_32dg_q8zw" _uuid="00000000-0000-0000-B0A1-CDCA87810BC3" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-vmr9_32dg_q8zw">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>JIM BEAM BRANDS CO</supplier>
+            <item_code>10930</item_code>
+            <item_description>LAPHROAIG LORE SCOTCH - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.85</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-jzsv-3hew_hv77" _uuid="00000000-0000-0000-C4C4-55AA17B64126" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-jzsv-3hew_hv77">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10931</item_code>
+            <item_description>FOUNDERS ALL DAY 1/15PK 12OZ CAN</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>15</rtl_sales>
+            <rtl_transfers>12</rtl_transfers>
+            <whs_sales>180</whs_sales>
+        </row>
+        <row _id="row-4gbf_3r5s-zm73" _uuid="00000000-0000-0000-6107-EAABFB33BDCF" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-4gbf_3r5s-zm73">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10932</item_code>
+            <item_description>FOUNDERS ALL DAY - 4/6</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>45</whs_sales>
+        </row>
+        <row _id="row-36hm-q6en~key7" _uuid="00000000-0000-0000-0304-62CDE712D491" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-36hm-q6en~key7">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10934</item_code>
+            <item_description>FOUNDERS CENTENNIAL - 4/6</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>6</whs_sales>
+        </row>
+        <row _id="row-94kz-yapa~rcmd" _uuid="00000000-0000-0000-60D2-2627D29ED418" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-94kz-yapa~rcmd">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10936</item_code>
+            <item_description>FOUNDERS DIRTY BASTARD - 4/6</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>13</whs_sales>
+        </row>
+        <row _id="row-4uwh-irgf~gqqh" _uuid="00000000-0000-0000-CACB-A225E18BDBD0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-4uwh-irgf~gqqh">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10940</item_code>
+            <item_description>FOUNDERS PORTER - 4/6</item_description>
+            <item_type>BEER</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>27</whs_sales>
+        </row>
+        <row _id="row-bs3v_fida_x6t2" _uuid="00000000-0000-0000-7CD9-E259FD80A6C0" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-bs3v_fida_x6t2">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10946</item_code>
+            <item_description>FOUNDERS NITRO RUBAEUS - 1/2K</item_description>
+            <item_type>KEGS</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>4</whs_sales>
+        </row>
+        <row _id="row-w9j5_ygci~kphq" _uuid="00000000-0000-0000-1308-0818C6E6AC7D" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-w9j5_ygci~kphq">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>DIONYSOS IMPORTS INC</supplier>
+            <item_code>109525</item_code>
+            <item_description>BOUDIN CHAB - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>1</whs_sales>
+        </row>
+        <row _id="row-99v3-utg2-j68s" _uuid="00000000-0000-0000-0E40-A27A761D81F2" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-99v3-utg2-j68s">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>LEGENDS LTD</supplier>
+            <item_code>10953</item_code>
+            <item_description>FOUNDERS ALL DAY - 1/2K</item_description>
+            <item_type>KEGS</item_type>
+            <rtl_sales>0</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>8</whs_sales>
+        </row>
+        <row _id="row-4rik.u6s7_my89" _uuid="00000000-0000-0000-D1DA-7AC7D168028F" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-4rik.u6s7_my89">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>BACCHUS IMPORTERS LTD</supplier>
+            <item_code>10959</item_code>
+            <item_description>OLD LINE SINGLE MALT WHISKEY - 750ML</item_description>
+            <item_type>LIQUOR</item_type>
+            <rtl_sales>0.17</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+        <row _id="row-mv5y.bvmg~4dgp" _uuid="00000000-0000-0000-DA6D-86E9BA82D74B" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-mv5y.bvmg~4dgp">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>J LOHR WINERY</supplier>
+            <item_code>10979</item_code>
+            <item_description>J LOHR RIVERSTONE CHARD - 1.5L</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>11.07</rtl_sales>
+            <rtl_transfers>11</rtl_transfers>
+            <whs_sales>4</whs_sales>
+        </row>
+        <row _id="row-eafa~ffhm.fn3y" _uuid="00000000-0000-0000-8614-69D12035C884" _position="0"
+             _address="https://data.montgomerycountymd.gov/resource/v76h-r7br/row-eafa~ffhm.fn3y">
+            <calendar_year>2020</calendar_year>
+            <cal_month_num>1</cal_month_num>
+            <supplier>PUNTO VINO LLC</supplier>
+            <item_code>109924</item_code>
+            <item_description>HILLINGER ZWEIGELT - 750ML</item_description>
+            <item_type>WINE</item_type>
+            <rtl_sales>0.08</rtl_sales>
+            <rtl_transfers>0</rtl_transfers>
+            <whs_sales>0</whs_sales>
+        </row>
+    </row>
+</response>
