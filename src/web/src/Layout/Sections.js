@@ -1,4 +1,5 @@
 import TopTeams from "../Menus/TopTeams";
+import Sales from "../Menus/Sales";
 
 const Sections = [
 
@@ -9,9 +10,9 @@ const Sections = [
     },
 
     {
-        id: "something-else",
-        label: "Something Else",
-        content: <h1>Something else - Work in progresss</h1>
+        id: "sales",
+        label: "Sales",
+        content: <Sales/>
     }
 
 ];
