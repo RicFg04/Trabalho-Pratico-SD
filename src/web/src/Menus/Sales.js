@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import {Box, Button, CircularProgress, Container, TextField} from '@mui/material';
-import {response} from "express";
 
 async function fetchSales() {
     const response = await fetch(`${process.env.REACT_APP_API_URL}/findAllSales`);
