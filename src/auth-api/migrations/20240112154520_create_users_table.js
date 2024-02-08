@@ -1,10 +1,10 @@
-const bcrypt = require('bcrypt');
+const bcryptjs = require('bcryptjs');
 /**
  * @param { import("knex").Knex } knex
  * @returns {Knex.SchemaBuilder}
  */
 exports.up = function(knex) {
-    const hashedPassword=bcrypt.hash('root',10);
+    const hashedPassword=bcryptjs.hashSync('root',10);
   return knex.schema.createTable('users', table => {
     table.increments('user_id').primary();
     table.string('username', 100).notNullable().unique();
