@@ -23,6 +23,7 @@ services:
     environment:
       - USE_DEV_MODE
       - PORT=80
+      - JWT_SECRET=JsonWebTokenSecret!"#$%&/(=)?¿
 
   bl-db:
     container_name: bl-db

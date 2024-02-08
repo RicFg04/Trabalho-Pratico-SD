@@ -1,8 +1,15 @@
 import {Injectable} from '@nestjs/common';
 import {PrismaClient, Sales} from '@prisma/client';
-import {isValidDate} from "rxjs/internal/util/isDate";
 
 export type SaleData = Partial<Sales> & { id: string };
+
+function isValidMonth(month: any): boolean{
+    return Number.isInteger(month) && month >= 1 && month <= 12;
+}
+
+function isValidYear(year: any): boolean{
+    return Number.isInteger(year) && year >= 2000 && year <= 2100;
+}
 
 @Injectable()
 export class SalesService {
@@ -13,13 +20,15 @@ export class SalesService {
     }
 
     async createSale(saleData: SaleData): Promise<Sales> {
+        console.log("Create Sale")
+        console.log(saleData);
         if (!saleData.id) {
             throw new Error('id is required');
         }
-        if (!isValidDate(saleData.cal_month_num)) {
+        if (!isValidMonth(saleData.cal_month_num)) {
             throw new Error('valid month number is required');
         }
-        if (!isValidDate(saleData.calendar_year)) {
+        if (!isValidYear(saleData.calendar_year)) {
             throw new Error('valid calendar year is required');
         }
         const existingSale = await this.prisma.sales.findUnique({
@@ -36,13 +45,15 @@ export class SalesService {
     }
 
     async updateSale(saleData: SaleData): Promise<Sales> {
+        console.log("Update Sale")
+        console.log(saleData);
         if (!saleData.id) {
             throw new Error('id is required');
         }
-        if (!isValidDate(saleData.cal_month_num)) {
+        if (!isValidMonth(saleData.cal_month_num)) {
             throw new Error('valid month number is required');
         }
-        if (!isValidDate(saleData.calendar_year)) {
+        if (!isValidYear(saleData.calendar_year)) {
             throw new Error('valid calendar year is required');
         }
         const existingSale = await this.prisma.sales.findUnique({
@@ -59,6 +70,8 @@ export class SalesService {
         });
     }
     async deleteSale(id: string): Promise<Sales> {
+        console.log("Delete Sale")
+        console.log(id);
         if (!id) {
             throw new Error('id is required');
         }

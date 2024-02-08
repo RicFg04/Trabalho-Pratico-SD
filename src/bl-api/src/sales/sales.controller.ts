@@ -1,23 +1,23 @@
-import {Body, Controller, Delete, Get, Post, Put} from "@nestjs/common";
+import {Body, Controller, Delete, Get, Param, Post, Put} from "@nestjs/common";
 import { SalesService, SaleData } from "./sales.service";
 
 @Controller('sales')
 export class SalesController{
     constructor(private readonly salesService:SalesService) {}
-    @Get('/findAllSales')
+    @Get()
     async findAll(){
         return this.salesService.findAll();
     }
-    @Post('/createSale')
+    @Post()
     async createSale(@Body() saleData:SaleData){
         return this.salesService.createSale(saleData);
     }
-    @Put('/updateSale')
+    @Put()
     async updateSale(@Body() saleData:SaleData){
         return this.salesService.updateSale(saleData);
     }
-    @Delete('/deleteSale')
-    async deleteSale(@Body() id:string){
+    @Delete(':id')
+    async deleteSale(@Param('id') id:string){
         return this.salesService.deleteSale(id);
     }
 }

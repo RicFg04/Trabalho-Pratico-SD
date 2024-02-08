@@ -1,12 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import {Box, Button, CircularProgress, Container, TextField} from '@mui/material';
 
-async function fetchSales() {
-    const response = await fetch(`${process.env.REACT_APP_API_URL}/findAllSales`);
-    const data = await response.json();
-    return data;
-}
-
 async function createSale(sale) {
     const response = await fetch(`${process.env.REACT_APP_API_URL}/createSale`, {
         method: 'POST',
@@ -22,7 +16,7 @@ async function createSale(sale) {
 
 
 function Sales() {
-    const [sales, setSales] = useState(null);
+    const [sales, setSales] = useState([]);
     const [newSale, setNewSale] = useState({});
 
     const handleInputChange = (event) => {
@@ -43,9 +37,13 @@ function Sales() {
     };
 
     useEffect(() => {
-        fetchSales()
-            .then(data => setSales(data))
-            .catch(error => console.error('Error:', error));
+        fetch("http://localhost:8080/sales")
+            .then((res) => res.json())
+            .then((res)=>{
+                setSales(res);
+            });
+            //.then(data => setSales(data))
+            //.catch(error => console.error('Error:', error));
     }, []);
 
     return (
@@ -65,15 +63,15 @@ function Sales() {
                 sales ?
                     <ul>
                         {
-                            sales.map(sale=>(
-                                <li key={sale.id}>
-                                    <p>Item description: {sale.item_description}</p>
-                                    <p>Supplier: {sale.supplier}</p>
-                                    <p>RTL Transfers: {sale.rtl_transfers}</p>
-                                    <p>Item Type: {sale.item_type}</p>
-                                    <p>Calendar Month Number: {sale.cal_month_num}</p>
-                                    <p>Item Code: {sale.item_code}</p>
-                                    <p>Calendar Year: {sale.calendar_year}</p>
+                            sales.map(sales=>(
+                                <li key={sales.id}>
+                                    <p>Item description: {sales.item_description}</p>
+                                    <p>Supplier: {sales.supplier}</p>
+                                    <p>RTL Transfers: {sales.rtl_transfers}</p>
+                                    <p>Item Type: {sales.item_type}</p>
+                                    <p>Calendar Month Number: {sales.cal_month_num}</p>
+                                    <p>Item Code: {sales.item_code}</p>
+                                    <p>Calendar Year: {sales.calendar_year}</p>
                                 </li>
                             ))
                         }
