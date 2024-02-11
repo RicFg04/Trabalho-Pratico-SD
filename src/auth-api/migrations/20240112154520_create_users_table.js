@@ -1,8 +1,11 @@
+// Import bcryptjs
 const bcryptjs = require('bcryptjs');
 /**
  * @param { import("knex").Knex } knex
  * @returns {Knex.SchemaBuilder}
  */
+
+// Criação da tabela users
 exports.up = function(knex) {
     const hashedPassword=bcryptjs.hashSync('root',10);
   return knex.schema.createTable('users', table => {
@@ -24,6 +27,8 @@ exports.up = function(knex) {
  * @param { import("knex").Knex } knex
  * @returns {Knex.SchemaBuilder}
  */
+
+// Eliminação da tabela users
 exports.down = function(knex) {
   return knex.schema.dropTable('users');
 };
